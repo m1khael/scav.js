@@ -102,3 +102,7 @@ dist
 
 # TernJS port file
 .tern-port
+
+#no tranpiled js
+electron/**/*.js
+.DS_Store

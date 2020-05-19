@@ -6,6 +6,8 @@ import * as ProgressBar from 'electron-progressbar';
 
 
 import * as HideDPIProxy from "./proxy";
+import * as Util from "./util";
+
 
 
 let mainWindow: Electron.BrowserWindow | null;
@@ -32,7 +34,7 @@ const init = async () => {
     });
 
     // Check and Download Youtube-DL
-
+    
     // Check and Download FFMPEG
 
     setTimeout(()=>{
