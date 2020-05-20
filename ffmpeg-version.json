@@ -1,0 +1,12 @@
+{
+    "version": "4.2.1",
+    "mac":{
+        "url": "https://github.com/vot/ffbinaries-prebuilt/releases/download/v4.2.1/ffmpeg-4.2.1-osx-64.zip"
+    },
+    "win32":{
+        "url" : "https://github.com/vot/ffbinaries-prebuilt/releases/download/v4.2.1/ffmpeg-4.2.1-win-64.zip"
+    },
+    "linux":{
+        "url": "https://github.com/vot/ffbinaries-prebuilt/releases/download/v4.2.1/ffmpeg-4.2.1-linux-64.zip"
+    }
+}
